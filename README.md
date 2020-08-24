@@ -23,3 +23,13 @@ Everyone should compulsory follow the below instruction in order to get the atte
 5. Minimum **`90/120`** minutes should attend in **`120/150 minutes`** session with same login format
 
 ******************************
+## Day01 Introduction to Machine Learning (24-Aug-2020)
+
+### Discussed Concepts:
+
+1. Introduction to Machine Learning
+2. Machine Learning Classification
+
+### [Day01_Slides](Day01_24Aug2020/Day01_Intro_to_Machine_Learning.pdf)
+### [Day01_Recorded_Video](https://transcripts.gotomeeting.com/#/s/c27dedb4c3e485eb296b94e7a17a11ed8e7ba12f77f2a3bc650004d79ecb3f24)
+**********************************************
