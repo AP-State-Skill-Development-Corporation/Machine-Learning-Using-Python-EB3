@@ -34,7 +34,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ### [[Day01_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/c27dedb4c3e485eb296b94e7a17a11ed8e7ba12f77f2a3bc650004d79ecb3f24)
 **********************************************
 
-## Day02 Sklearn Package, and Linear Regression using Machine Learning (04-Aug-2020)
+## Day02 Sklearn Package, and Linear Regression using Machine Learning (25-Aug-2020)
 
 ### Discussed Concepts:
 
@@ -52,5 +52,5 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ### Day02 Jupyter Notebook [[.ipynb format]](Day02_25Aug2020/Day02_25Aug2020_Linear_Regression.ipynb), [[.pdf format]](Day02_25Aug2020/Day02_25Aug2020_Linear_Regression.pdf)
 ### [[Day02_Slides]](Day02_25Aug2020/Linear_Regression.pdf)
 
-### [[Day02_Recorded_Video_is in preprocessing will be updated ASAP]]()
+### [[Day02_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/249e208448c5482fba6f6d564be3ecb8629bcea156cb4bc9709ffa24a02a3236)
 **********************************************
