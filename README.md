@@ -30,8 +30,8 @@ Everyone should compulsory follow the below instruction in order to get the atte
 1. Introduction to Machine Learning
 2. Machine Learning Classification
 
-### [Day01_Slides](Day01_24Aug2020/Day01_Intro_to_Machine_Learning.pdf)
-### [Day01_Recorded_Video](https://transcripts.gotomeeting.com/#/s/c27dedb4c3e485eb296b94e7a17a11ed8e7ba12f77f2a3bc650004d79ecb3f24)
+### [[Day01_Slides]](Day01_24Aug2020/Day01_Intro_to_Machine_Learning.pdf)
+### [[Day01_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/c27dedb4c3e485eb296b94e7a17a11ed8e7ba12f77f2a3bc650004d79ecb3f24)
 **********************************************
 
 ## Day02 Sklearn Package, and Linear Regression using Machine Learning (04-Aug-2020)
@@ -49,8 +49,8 @@ Everyone should compulsory follow the below instruction in order to get the atte
 1. Created ML model to predict the salary based on YearsOfExperience
 1. Evaluated the Model
 
-### Day02 Jupyter Notebook [.ipynb format](Day02_25Aug2020/Day02_25Aug2020_Linear_Regression.ipynb), [.pdf format](Day02_25Aug2020/Day02_25Aug2020_Linear_Regression.pdf)
-### [Day02_Slides](Day02_25Aug2020/Linear_Regression.pdf)
+### Day02 Jupyter Notebook [[.ipynb format]](Day02_25Aug2020/Day02_25Aug2020_Linear_Regression.ipynb), [[.pdf format]](Day02_25Aug2020/Day02_25Aug2020_Linear_Regression.pdf)
+### [[Day02_Slides]](Day02_25Aug2020/Linear_Regression.pdf)
 
-### [Day02_Recorded_Video_is in preprocessing will be updated ASAP]()
+### [[Day02_Recorded_Video_is in preprocessing will be updated ASAP]]()
 **********************************************
