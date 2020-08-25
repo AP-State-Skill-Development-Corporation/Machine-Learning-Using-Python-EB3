@@ -2,7 +2,7 @@
 
 This training is from 24-Aug-2020 to 02-Sept-2020 total of 2hr/day (04:00 PM to 06:00 PM)  for 9days. This repository consists of all the files, resources, and recorded session links which are discussed during Machine Learning using Python Online Training.
 
-#### Check your details on gsheet same will be replicated on certificates by end of the day i.e. `25Aug2020` no further modifications are done if your details are missing update in last column  → [[GSheet]](https://docs.google.com/spreadsheets/d/1dfDtQHKMyEb9HIAtPauFXPWIG4wIYNk9SPPoujYJ00U/edit?usp=sharing)
+[//]: # (Check your details on gsheet same will be replicated on certificates by end of the day i.e. `25Aug2020` no further modifications are done if your details are missing update in last column  → [[GSheet]]https://docs.google.com/spreadsheets/d/1dfDtQHKMyEb9HIAtPauFXPWIG4wIYNk9SPPoujYJ00U/edit?usp=sharing)
 
 #### Gotomeeting Link → [[Click Here to Join]](https://global.gotomeeting.com/join/678146309) → Meeting Id → `678146309`
 
