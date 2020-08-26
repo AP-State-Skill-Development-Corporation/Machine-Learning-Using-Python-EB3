@@ -54,3 +54,15 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ### [[Day02_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/249e208448c5482fba6f6d564be3ecb8629bcea156cb4bc9709ffa24a02a3236)
 **********************************************
+
+## Day03 Multi Linear Regression & Polynomial Regression (05-Aug-2020)
+### Discussed Concepts:
+1. Multi Linear Regression to predict CO2 Emissions Dataset
+2. Non Linear regression
+3. Polynomial Regression to predict CO2 Emissions Dataset
+
+### Day03_Multi_Linear_and_Polynomial_Regression_Jupyter_Notebook [[.ipynb format]](Day03_26Aug2020/Multi_Linear_Regression_&_Polynomial_Regression.ipynb), [[.pdf format]](Day03_26Aug2020/Multi_Linear_Regression_&_Polynomial_Regression.pdf)
+### Day03_PolyNomial_Regression_Functions [[.ipynb format]](Day03_26Aug2020/Non_Linear_Regression_Functions.ipynb), [[.pdf format]](Day03_26Aug2020/Non_Linear_Regression_Functions.pdf)
+
+### [[Day03_Slides]](Day03_26Aug2020/Polynimial_Regression.pdf)
+### [[Day_03_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/385608977b44ca8ac4ec0f3bcedc20b18c9e556b1db0bb38e335b5c2331366a3)
