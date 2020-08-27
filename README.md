@@ -66,3 +66,14 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ### [[Day03_Slides]](Day03_26Aug2020/Polynimial_Regression.pdf)
 ### [[Day_03_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/385608977b44ca8ac4ec0f3bcedc20b18c9e556b1db0bb38e335b5c2331366a3)
+-----------
+## Day04(27-08-2020)
+
+### Topics Covered
+- Introduction to Classification
+- Types of Classification
+- KNN(k-Nearest Neighbours) Algorithm
+### Materials
+![Class Jupyter Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB3/blob/master/Day04-27Auguest2020/27-08-2020%20KNN%20Algorithm.ipynb)
+![Recorded Video](https://transcripts.gotomeeting.com/#/s/3838fc10d46fc8803f8475da89e5e486c208b4674f8cb4200c82ee54bec9a398)
+--------------
