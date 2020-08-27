@@ -74,6 +74,6 @@ Everyone should compulsory follow the below instruction in order to get the atte
 - Types of Classification
 - KNN(k-Nearest Neighbours) Algorithm
 ### Materials
-![Class Jupyter Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB3/blob/master/Day04-27Auguest2020/27-08-2020%20KNN%20Algorithm.ipynb)
-![Recorded Video](https://transcripts.gotomeeting.com/#/s/3838fc10d46fc8803f8475da89e5e486c208b4674f8cb4200c82ee54bec9a398)
+[Class Jupyter Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB3/blob/master/Day04-27Auguest2020/27-08-2020%20KNN%20Algorithm.ipynb)<br>
+[Recorded Video](https://transcripts.gotomeeting.com/#/s/3838fc10d46fc8803f8475da89e5e486c208b4674f8cb4200c82ee54bec9a398)<br>
 --------------
