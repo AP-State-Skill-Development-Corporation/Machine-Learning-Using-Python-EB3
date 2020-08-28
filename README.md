@@ -73,7 +73,22 @@ Everyone should compulsory follow the below instruction in order to get the atte
 - Introduction to Classification
 - Types of Classification
 - KNN(k-Nearest Neighbours) Algorithm
-### Materials
-[Class Jupyter Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB3/blob/master/Day04-27Auguest2020/27-08-2020%20KNN%20Algorithm.ipynb)<br>
-[Recorded Video](https://transcripts.gotomeeting.com/#/s/3838fc10d46fc8803f8475da89e5e486c208b4674f8cb4200c82ee54bec9a398)<br>
+#### Materials
+Click Here For Notes--> [Class Jupyter Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB3/blob/master/Day04-27Auguest2020/27-08-2020%20KNN%20Algorithm.ipynb)<br>
+Click Here For Video --> [Recorded Video](https://transcripts.gotomeeting.com/#/s/3838fc10d46fc8803f8475da89e5e486c208b4674f8cb4200c82ee54bec9a398)<br>
+
 --------------
+
+## Day05(28-08-2020)
+
+### Topics Covered:
+- Logistic Regression
+- SVM (Support Vector Machine)
+
+### Materials
+Click Here For Notes-->[Class Jupyter Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB3/blob/master/Day05_28Aug2020/28-08-2020%20Day-5.ipynb)<br>
+Click Here For Video -->[Recorded Video](https://transcripts.gotomeeting.com/#/s/84e34a25bbdfb4be551bb15820030222ac5aa5911102f1f88ddc2c7c534cd4ef)<br>
+
+--------
+
+
