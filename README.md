@@ -92,4 +92,17 @@ Click Here For Video -->[Recorded Video](https://transcripts.gotomeeting.com/#/s
 
 --------
 
+## Day-6(29-08-2020)
+
+### Covered Topics:
+- Introduction to Decision Tree
+- Terminology related to Decision Trees
+- Types of Decision Trees
+- Decision Trees Classifier
+
+### Materails
+Class Jupyter Notebook -->[Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB3/blob/master/Day06_29Aug2020/29-08-2020%20Day6.ipynb)<br>
+Class Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/e91748a07ffccb9d9890ba8fb930ec6fa5921ad68f421ba8fe8244d77771591d)<br>
+
+---------
 
