@@ -103,7 +103,7 @@ Click Here For Video -->[Recorded Video](https://transcripts.gotomeeting.com/#/s
 ### Materails
 Class Jupyter Notebook -->[Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB3/blob/master/Day06_29Aug2020/29-08-2020%20Day6.ipynb)<br>
 Class Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/e91748a07ffccb9d9890ba8fb930ec6fa5921ad68f421ba8fe8244d77771591d)<br>
-**Pdf uploaded in above folder**
+*Pdf uploaded in above folder*
 ---------
 
 ## Day-07(31-08-2020)
@@ -114,8 +114,7 @@ Class Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/e9
 - Random Forest
 
 ### MAterials
-
 Class Jupyter Notebook -->[Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB3/blob/master/Day07_31-08-2020/31-08-2020%20Day-7.ipynb)<br>
 Class Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/5e9222de17ed1f48fb18fd7bee6e08dc826986d72a682e734f00bd64d76a69cf)<br>
-**Pdf uploaded in above folder**
+*Pdf uploaded in above folder*
 --------
