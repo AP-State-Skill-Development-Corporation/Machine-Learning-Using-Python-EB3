@@ -2,7 +2,9 @@
 
 This training is from 24-Aug-2020 to 02-Sept-2020 total of 2hr/day (04:00 PM to 06:00 PM)  for 9days. This repository consists of all the files, resources, and recorded session links which are discussed during Machine Learning using Python Online Training.
 
-[//]: # (Check your details on gsheet same will be replicated on certificates by end of the day i.e. `25Aug2020` no further modifications are done if your details are missing update in last column  → [[GSheet]]https://docs.google.com/spreadsheets/d/1dfDtQHKMyEb9HIAtPauFXPWIG4wIYNk9SPPoujYJ00U/edit?usp=sharing)
+[//]: # ()
+
+#### Check your details on gsheet same will be replicated on certificates by end of the day i.e. `01Sept2020` no further modifications are done if your details are missing update in last column  → [[GSheet]](https://docs.google.com/spreadsheets/d/1dfDtQHKMyEb9HIAtPauFXPWIG4wIYNk9SPPoujYJ00U/edit?usp=sharing)
 
 #### Gotomeeting Link → [[Click Here to Join]](https://global.gotomeeting.com/join/678146309) → Meeting Id → `678146309`
 
@@ -117,6 +119,21 @@ Class Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/e9
 ### MAterials
 Class Jupyter Notebook -->[Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB3/blob/master/Day07_31-08-2020/31-08-2020%20Day-7.ipynb)<br>
 Class Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/5e9222de17ed1f48fb18fd7bee6e08dc826986d72a682e734f00bd64d76a69cf)<br>
-*Pdf uploaded in above folder*
+**Pdf uploaded in above folder**
 
 --------
+
+## Day08 Unsupervised Learning and Clustering	Introduction to Unsupervised Learning (01-Sept-2020)
+
+1. Types of Unsupervised Learning
+1. Introduction to clustering
+1. Types of Clustering methods
+1. KMeans Clustering
+1. Applications
+
+### Day08 Jupyter Notebook [[.ipynb format]](Day08_01Sept2020/Customer_Segmentation_using_KMeans_Clustering.ipynb), [[.pdf format]](Day08_01Sept2020/Customer_Segmentation_using_KMeans_Clustering.pdf)
+### [[Day08_Slides]](Day08_01Sept2020/Day08_Unsupervised_Learning_Slides.pdf)
+
+### [[Day08_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/a0cbbed9ca2c1a2dd1efae3a4f5ea378649d7c9a81dfa59b63973e5e8d41c6c9)
+**********************************************
+
