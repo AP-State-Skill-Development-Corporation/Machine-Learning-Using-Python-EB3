@@ -3,7 +3,7 @@
 This training is from 24-Aug-2020 to 02-Sept-2020 total of 2hr/day (04:00 PM to 06:00 PM)  for 9days. This repository consists of all the files, resources, and recorded session links which are discussed during Machine Learning using Python Online Training.
 
 [//]: # ()
-#### `Note:` Video Links will be expired by saturday if needed download ASAP
+#### `Note:` Updated video Links they may expired at anytime if needed download ASAP
 #### APSSDC-ML-Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
 
 #### Few resources avaliable @ [[resources.md]](resources.md) file don't forget to use them
