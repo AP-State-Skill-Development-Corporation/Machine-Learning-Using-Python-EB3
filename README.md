@@ -3,13 +3,7 @@
 This training is from 24-Aug-2020 to 02-Sept-2020 total of 2hr/day (04:00 PM to 06:00 PM)  for 9days. This repository consists of all the files, resources, and recorded session links which are discussed during Machine Learning using Python Online Training.
 
 [//]: # ()
-
-#### Check your details on gsheet same will be replicated on certificates by end of the day i.e. `01Sept2020` no further modifications are done → [[GSheet]](https://docs.google.com/spreadsheets/d/1dfDtQHKMyEb9HIAtPauFXPWIG4wIYNk9SPPoujYJ00U/edit?usp=sharing)
-
-#### Gotomeeting Link → [[Click Here to Join]](https://global.gotomeeting.com/join/678146309) → Meeting Id → `678146309`
-
-#### Slack Channel Link for discussions/doubts → [Click Here to Join](https://join.slack.com/t/apssdc-community/shared_invite/zt-h4a5u6jk-s7CTfbuJCDz_aKMTveYZLA)
-
+#### `Note:` Video Links will be expired by saturday if needed download ASAP
 #### APSSDC-ML-Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
 
 #### Few resources avaliable @ [[resources.md]](resources.md) file don't forget to use them
@@ -136,4 +130,16 @@ Class Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/5e
 
 ### [[Day08_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/a0cbbed9ca2c1a2dd1efae3a4f5ea378649d7c9a81dfa59b63973e5e8d41c6c9)
 **********************************************
+## Day08 Dimensionality Reduction (02-Sept-2020)
+### Discussed Concepts:
 
+1. Dimensionality reduction
+1. Principal Component Analysis (PCA)
+
+### Day09 Jupyter Notebook [[.ipynb format]](Day09_02Sept2020/Dimensionality_Reduction_on_Wine_Data.ipynb), [[.pdf format]](Day09_02Sept2020/Dimensionality_Reduction_on_Wine_Data.pdf)
+### [[Day08_Slides]](Day09_02Sept2020/Dimensionality_Reduction_Slides.pdf)
+
+
+******************
+
+<img src="https://media1.tenor.com/images/98c6d5e76d6069f4f7d42ee937f4dc98/tenor.gif?itemid=15177778" alt="centered image" height = 249 width = 249/>
