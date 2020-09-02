@@ -130,14 +130,14 @@ Class Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/5e
 
 ### [[Day08_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/a0cbbed9ca2c1a2dd1efae3a4f5ea378649d7c9a81dfa59b63973e5e8d41c6c9)
 **********************************************
-## Day08 Dimensionality Reduction (02-Sept-2020)
+## Day09 Dimensionality Reduction (02-Sept-2020)
 ### Discussed Concepts:
 
 1. Dimensionality reduction
 1. Principal Component Analysis (PCA)
 
 ### Day09 Jupyter Notebook [[.ipynb format]](Day09_02Sept2020/Dimensionality_Reduction_on_Wine_Data.ipynb), [[.pdf format]](Day09_02Sept2020/Dimensionality_Reduction_on_Wine_Data.pdf)
-### [[Day08_Slides]](Day09_02Sept2020/Dimensionality_Reduction_Slides.pdf)
+### [[Day09_Slides]](Day09_02Sept2020/Dimensionality_Reduction_Slides.pdf)
 
 
 ******************
