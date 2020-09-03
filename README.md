@@ -138,7 +138,7 @@ Class Recorded Video --> [Click Here](https://transcripts.gotomeeting.com/#/s/5e
 
 ### Day09 Jupyter Notebook [[.ipynb format]](Day09_02Sept2020/Dimensionality_Reduction_on_Wine_Data.ipynb), [[.pdf format]](Day09_02Sept2020/Dimensionality_Reduction_on_Wine_Data.pdf)
 ### [[Day09_Slides]](Day09_02Sept2020/Dimensionality_Reduction_Slides.pdf)
-
+### [[Day09_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/4c980aa993aef09eba10e6a1a7d2f47914efa67faf9724e5f44ee09044ca538f)
 
 ******************
 
